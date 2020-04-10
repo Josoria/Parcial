@@ -1,0 +1,2 @@
+C:\Users\josor\Documents\Visual Studio 2019\Programas\Movil\Movil\Debug\Movil.exe
+C:\Users\josor\Documents\Visual Studio 2019\Programas\Movil\Movil\Debug\Movil.pdb

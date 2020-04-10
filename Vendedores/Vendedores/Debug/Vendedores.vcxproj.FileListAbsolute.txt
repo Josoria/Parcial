@@ -1,0 +1,2 @@
+C:\Users\josor\Documents\Visual Studio 2019\Programas\Vendedores\Vendedores\Debug\Vendedores.exe
+C:\Users\josor\Documents\Visual Studio 2019\Programas\Vendedores\Vendedores\Debug\Vendedores.pdb

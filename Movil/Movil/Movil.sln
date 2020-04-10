@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Movil", "Movil.vcxproj", "{5D43FCA8-07FE-4959-827F-AD8F9C728003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D43FCA8-07FE-4959-827F-AD8F9C728003}.Debug|x64.ActiveCfg = Debug|x64
+		{5D43FCA8-07FE-4959-827F-AD8F9C728003}.Debug|x64.Build.0 = Debug|x64
+		{5D43FCA8-07FE-4959-827F-AD8F9C728003}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D43FCA8-07FE-4959-827F-AD8F9C728003}.Debug|x86.Build.0 = Debug|Win32
+		{5D43FCA8-07FE-4959-827F-AD8F9C728003}.Release|x64.ActiveCfg = Release|x64
+		{5D43FCA8-07FE-4959-827F-AD8F9C728003}.Release|x64.Build.0 = Release|x64
+		{5D43FCA8-07FE-4959-827F-AD8F9C728003}.Release|x86.ActiveCfg = Release|Win32
+		{5D43FCA8-07FE-4959-827F-AD8F9C728003}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8FB92C-DB86-4973-A498-142D11AC3A4C}
+	EndGlobalSection
+EndGlobal
