@@ -21,10 +21,14 @@ int main()
         cout << "\n";
         
         cventa = 0;
-        if (venta >= 50000); //Revisar este if según me dijo Benjamín..
-        
-        suma 
+        if (venta >= 50000) {
+		
+		suma = suma + venta; 
         cventa = cventa + 1;
+		
+		}
+        
+        
        }
             
         cout << "CANTIDAD VENDIDOS MAYOR O IGUAL A 50 MIL: " << cventa << endl;
