@@ -13,8 +13,9 @@ int main()
     double suma, venta, prom;
     suma = 0;
     cventa = 0;
+    i = 0;
      
-    for (i = 0; i <= 9; i++) 
+    while (i <= 9)
         {
            cout << "DIGITE VENTAS DEL VENDEDOR: \n";
               cin >> venta;
@@ -22,14 +23,15 @@ int main()
         
              if (venta >= 50000) 
               {
-		       cventa = cventa + 1;
-           }
+		       cventa += 1;
+                          }
               
-           suma = suma + venta;
-           prom = suma / 10;
+           suma += venta;
+           i++;
 	   
     }
-            
+        prom = suma / 10;
+
     cout << "EL PROMEDIO DE VENTA ES: " << prom << endl;
     cout << "CANTIDAD VENDIDOS MAYOR O IGUAL A 50 MIL: " << cventa << endl;
 
