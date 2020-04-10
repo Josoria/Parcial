@@ -1,7 +1,7 @@
 // Hacer un programa en C++ que reciba de entrada 10 ventas del mismo nÃºmero de vendedores y que de como salida:
 // -El promedio de las ventas
 // -La cantidad de ventas mayores o iguales a 50, 000.00.
-//
+// 
 
 #include <iostream>
 using namespace std;
@@ -21,7 +21,8 @@ int main()
         cout << "\n";
         
         cventa = 0;
-        if (venta >= 50000);
+        if (venta >= 50000); //Revisar este if según me dijo Benjamín..
+        
         suma 
         cventa = cventa + 1;
        }
