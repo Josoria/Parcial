@@ -11,22 +11,22 @@ int main()
 {
     int i, cventa ;
     double suma, venta, prom;
-    suma = o
+    suma = 0;
     cventa = 0;
      
     for (i = 0; i <= 9; i++) 
         {
-        cout << "DIGITE VENTAS DEL VENDEDOR: \n";
-        cin >> venta;
-        cout << "\n";
+           cout << "DIGITE VENTAS DEL VENDEDOR: \n";
+              cin >> venta;
+           cout << "\n";
         
-           if (venta >= 50000) 
+             if (venta >= 50000) 
               {
 		       cventa = cventa + 1;
            }
               
            suma = suma + venta;
-           prom = suma / 10
+           prom = suma / 10;
 	   
     }
             
